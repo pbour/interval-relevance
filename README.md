@@ -8,4 +8,4 @@ Source code from the following publication:
 - <p align="justify">Panagiotis Bouros and Nikos Mamoulis, <i>Relevance Queries for Interval Data</i>, Proceedings of the ACM on Management of Data (PACMMOD), https://doi.org/10.1145/3725343, Vol 3, No 3, June 2025.<br> 
   To be presented at the 2025 ACM International Conference on Management of Data (ACM SIGMOD'25), Berlin, Germany, June 22-27, 2025</p>
 
-## Source code soming soon
+## Source code coming soon
